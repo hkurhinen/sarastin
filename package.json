@@ -1,0 +1,29 @@
+{
+  "name": "sarastin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Belvain",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-session-sequelize": "^5.1.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.1.0",
+    "keycloak-connect": "^3.4.3",
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14",
+    "mysql2": "^1.5.1",
+    "nconf": "^0.10.0",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.83.0",
+    "sequelize": "^4.31.1"
+  }
+}
